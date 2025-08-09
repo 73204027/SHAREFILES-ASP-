@@ -1,0 +1,7 @@
+Services: Classes that handle the real logic (naming, where to save,  streaming, memory, etc.)
+
+
+Endpoints: small classes that connect routes to services
+
+Program.cs
+

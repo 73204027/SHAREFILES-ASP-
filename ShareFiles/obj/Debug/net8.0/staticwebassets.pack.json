@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShareFiles.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShareFiles.props",
+      "PackagePath": "build\\ShareFiles.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShareFiles.props",
+      "PackagePath": "buildMultiTargeting\\ShareFiles.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShareFiles.props",
+      "PackagePath": "buildTransitive\\ShareFiles.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

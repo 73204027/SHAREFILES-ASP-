@@ -1,6 +1,15 @@
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddScoped<fileUploadHandler_service>();
+
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
+
+app.MapUploadEndpoints();
+
+
 
 app.Run();

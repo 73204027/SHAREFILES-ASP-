@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "fK5pJZHm74jtzCh+deAuDH3ZSCyep20zg8LNUT2jiPs=",
+  "Source": "ShareFiles",
+  "BasePath": "_content/ShareFiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShareFiles\\wwwroot",
+      "Source": "ShareFiles",
+      "ContentRoot": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\",
+      "BasePath": "_content/ShareFiles",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\app.js",
+      "SourceId": "ShareFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\",
+      "BasePath": "_content/ShareFiles",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\index.html",
+      "SourceId": "ShareFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\",
+      "BasePath": "_content/ShareFiles",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
