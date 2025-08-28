@@ -1,0 +1,15 @@
+dotnet new web
+
+Last Update: I'm not using clean architecture.
+
+This is an SPA.
+I'm not using Frontend framework, so I'll just serve index.html (in wwwroot) and will fetch with some vanilla files.
+
+I could implement jquery if needed.
+
+And... REST API is will lay in Program.cs
+
+Design Patterns:
+
+
+
