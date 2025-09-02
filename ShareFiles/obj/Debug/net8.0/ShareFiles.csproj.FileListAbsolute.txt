@@ -25,3 +25,30 @@ C:\Users\Marcelito\Documents\2-ACADEMIC LIFE\COMPUTER SCIENCE\MY PROJECTS\WEB DE
 C:\Users\Marcelito\Documents\2-ACADEMIC LIFE\COMPUTER SCIENCE\MY PROJECTS\WEB DEV\DOTNET\4 SHAREFILES\ShareFiles\obj\Debug\net8.0\ShareFiles.genruntimeconfig.cache
 C:\Users\Marcelito\Documents\2-ACADEMIC LIFE\COMPUTER SCIENCE\MY PROJECTS\WEB DEV\DOTNET\4 SHAREFILES\ShareFiles\obj\Debug\net8.0\ref\ShareFiles.dll
 C:\Users\Marcelito\Documents\2-ACADEMIC LIFE\COMPUTER SCIENCE\MY PROJECTS\WEB DEV\DOTNET\4 SHAREFILES\ShareFiles\bin\Debug\net8.0\ShareFiles.staticwebassets.runtime.json
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\bin\Debug\net8.0\appsettings.json
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\bin\Debug\net8.0\ShareFiles.staticwebassets.runtime.json
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\bin\Debug\net8.0\ShareFiles.exe
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\bin\Debug\net8.0\ShareFiles.deps.json
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\bin\Debug\net8.0\ShareFiles.runtimeconfig.json
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\bin\Debug\net8.0\ShareFiles.dll
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\bin\Debug\net8.0\ShareFiles.pdb
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\ShareFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\ShareFiles.AssemblyInfoInputs.cache
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\ShareFiles.AssemblyInfo.cs
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\ShareFiles.csproj.CoreCompileInputs.cache
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\ShareFiles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\ShareFiles.sourcelink.json
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\staticwebassets\msbuild.ShareFiles.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\staticwebassets\msbuild.build.ShareFiles.props
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShareFiles.props
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShareFiles.props
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\scopedcss\bundle\ShareFiles.styles.css
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\ShareFiles.dll
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\refint\ShareFiles.dll
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\ShareFiles.pdb
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\ShareFiles.genruntimeconfig.cache
+C:\Users\Marcelito\Desktop\temp\SHAREFILES-ASP-\ShareFiles\obj\Debug\net8.0\ref\ShareFiles.dll

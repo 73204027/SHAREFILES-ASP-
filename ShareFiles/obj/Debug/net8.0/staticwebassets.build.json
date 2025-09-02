@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fK5pJZHm74jtzCh+deAuDH3ZSCyep20zg8LNUT2jiPs=",
+  "Hash": "PHeCc6CzDo9MZqwPlNkQK4lEqF9hoahOtlX+BBWQntU=",
   "Source": "ShareFiles",
   "BasePath": "_content/ShareFiles",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ShareFiles\\wwwroot",
       "Source": "ShareFiles",
-      "ContentRoot": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marcelito\\Desktop\\temp\\SHAREFILES-ASP-\\ShareFiles\\wwwroot\\",
       "BasePath": "_content/ShareFiles",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\app.js",
+      "Identity": "C:\\Users\\Marcelito\\Desktop\\temp\\SHAREFILES-ASP-\\ShareFiles\\wwwroot\\app.js",
       "SourceId": "ShareFiles",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marcelito\\Desktop\\temp\\SHAREFILES-ASP-\\ShareFiles\\wwwroot\\",
       "BasePath": "_content/ShareFiles",
       "RelativePath": "app.js",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\app.js"
     },
     {
-      "Identity": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Marcelito\\Desktop\\temp\\SHAREFILES-ASP-\\ShareFiles\\wwwroot\\index.html",
       "SourceId": "ShareFiles",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marcelito\\Desktop\\temp\\SHAREFILES-ASP-\\ShareFiles\\wwwroot\\",
       "BasePath": "_content/ShareFiles",
       "RelativePath": "index.html",
       "AssetKind": "All",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\ShareFiles.csproj": {}
+    "C:\\Users\\Marcelito\\Desktop\\temp\\SHAREFILES-ASP-\\ShareFiles\\ShareFiles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\ShareFiles.csproj": {
+    "C:\\Users\\Marcelito\\Desktop\\temp\\SHAREFILES-ASP-\\ShareFiles\\ShareFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\ShareFiles.csproj",
+        "projectUniqueName": "C:\\Users\\Marcelito\\Desktop\\temp\\SHAREFILES-ASP-\\ShareFiles\\ShareFiles.csproj",
         "projectName": "ShareFiles",
-        "projectPath": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\ShareFiles.csproj",
+        "projectPath": "C:\\Users\\Marcelito\\Desktop\\temp\\SHAREFILES-ASP-\\ShareFiles\\ShareFiles.csproj",
         "packagesPath": "C:\\Users\\Marcelito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcelito\\Documents\\2-ACADEMIC LIFE\\COMPUTER SCIENCE\\MY PROJECTS\\WEB DEV\\DOTNET\\4 SHAREFILES\\ShareFiles\\obj\\",
+        "outputPath": "C:\\Users\\Marcelito\\Desktop\\temp\\SHAREFILES-ASP-\\ShareFiles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcelito\\AppData\\Roaming\\NuGet\\NuGet.Config"
